@@ -19,9 +19,9 @@ Serviço de MySql rodando.
 
 ## Comandos utilizados para preparar a aplicação:
 _//mapeando DataContext e criando a 'PrimeiraMigration'_<br>
-dotnet ef migrations add PrimeiraMigration<br>
-_//Se não houver banco com mesmo nome configurado ele o cria, espelhando todas as mudanças do DataContext neste banco de dados,setando toda estrutura e criando uma tabela de historico de migrations_<br>
-dotnet ef database update
+**dotnet ef migrations add PrimeiraMigration<br>**
+_//Se não houver banco com mesmo nome configurado ele o cria, espelhando todas as mudanças do DataContext setado nas migrations neste banco de dados, inclusive toda a estrutura e criando uma tabela de histórico de migrations aplicadas_<br>
+**dotnet ef database update**
 
 ## Rodando a aplicação:
 dotnet run
