@@ -15,3 +15,5 @@ dotnet ef database update //Se não houver banco com mesmo nome configurado ele 
 espelha todas as mudanças do DataContext neste banco de dados,
 setando toda estrutura e criando uma tabela de historico de migrations
 
+Rodando aplicação:
+dotnet run

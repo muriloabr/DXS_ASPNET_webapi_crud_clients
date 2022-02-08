@@ -4,9 +4,8 @@ namespace DXS_ASPNET_webapi_crud_clients.Models{
     public class Cliente{
         [Key] //caracteristica de chave primaria no Id
         public int Id { get; set; }
-        public int Nome { get; set; }
-
-        public int Cidade { get; set; }
+        public string Nome { get; set; }
+        public string Cidade { get; set; }
         public int Idade { get; set; }
     }
 }
