@@ -5,8 +5,9 @@ Aplicação e estudo dos conceitos avançados de programação de WebApi em ASPN
 
 - EntityFrameworkCore, Annotations, DataAnnotations;
 - MvC, Threading, Routes, DbContext, Migrations;
-- Estruturas, conceitos e funções;
-- ✨Atualizações da linguagem .NET6 + comentários.
+- Estruturas, conceitos e funções;  
+
+✨Atualizações da linguagem .NET6 + comentários.
 
 ## Pacotes instalados:  
 ``dotnet tool install --global dotnet-ef``  
