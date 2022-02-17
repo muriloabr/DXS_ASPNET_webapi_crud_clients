@@ -3,6 +3,8 @@
 
 Aplicação e estudo dos conceitos avançados de programação de WebApi em ASPNET
 
+  **Conceitos abordados:** 
+
 - EntityFrameworkCore, Annotations, DataAnnotations;
 - MvC, Threading, Routes, DbContext, Migrations;
 - Estruturas, conceitos e funções;  
