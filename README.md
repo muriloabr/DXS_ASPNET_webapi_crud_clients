@@ -11,13 +11,13 @@ Aplicação e estudo dos conceitos avançados de programação de WebApi em ASPN
 
 ✨Atualizações da linguagem .NET6 + comentários.
 
-## Pacotes instalados:  
+## Pacotes requeridos:  
 ``dotnet tool install --global dotnet-ef``  
 ``dotnet add package Microsoft.EntityFrameworkCore --version 5.0.9``  
 ``dotnet add package Microsoft.EntityFrameworkCore.Design --version 5.0.9``  
 ``dotnet add package Pomelo.EntityFrameworkCore.MySql --version 5.0.1``  
 
-## Requer:
+## Serviços requeridos:
 _Serviço de MySql rodando._
 
 ## Comandos utilizados para preparar a aplicação:  
