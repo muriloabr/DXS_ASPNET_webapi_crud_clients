@@ -29,6 +29,8 @@ _//Se não houver banco com mesmo nome configurado ele o cria, espelhando todas 
 ## Rodando a aplicação:  
 ``dotnet run``  
 
+##
+
 ### Tela de resultado final, interagindo com a WebApi:<br>![imagem da aplicação](https://dataxstudios.com.br/assets/images/github/aspnet_webapi_crud_clients_1.PNG)
 Fique por dentro deste repositório com atualizações sempre que possível!  
 [ASPNET] [DOTNET] [MYSQL] [CSHARP] #aspnet #mysql #dotnet #csharp #webapi
